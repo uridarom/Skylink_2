@@ -1,2 +1,2 @@
 # Skylink_2
-An application that allows you to create custom items in Hypixel Skyblock format with working stats and attributres.
+An application that allows for the creation of custom items in the Hypixel Skyblock format with working stats and attributes.
